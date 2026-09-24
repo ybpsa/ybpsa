@@ -1,9 +1,7 @@
-#Experience
-
-##Programming & Web
+## Programming & Web
 C#, VB.NET, VBA, C, C++, WPF. JavaScript, TypeScript, Angular, Blazor, HTML5, CSS, Bootstrap. React (familiar, no shipped projects). Python, R (moderate). Entity Framework Core (Code First, Migrations, LINQ), Flask.
 
-##Databases & Data Engineering
+## Databases & Data Engineering
 •	Databases: Microsoft SQL Server, Oracle, PostgreSQL, InfluxDB (moderate), Azure Cosmos DB, Azure Database for PostgreSQL.
 •	Database programming: T-SQL, PL/SQL, Pro-C, CLR, query optimisation and maintenance
 •	Data engineering: Snowflake certified in data engineering, pipelines, and data science
