@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashin Beharie Parsard</h1>
+<h1 align="center">Hi 👋, I'm Yashin Parsard</h1>
 <h3 align="center">Innovative Full Stack Developer with an Engineering Background</h3>
 
 <h3 align="left">Connect with me:</h3>
