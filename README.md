@@ -55,6 +55,7 @@ I will sonn be adding a few public repositories.
 
 ## 📫 Get in touch
  
-- **LinkedIn:** https://www.linkedin.com/in/yashin-parsard-5449561a/ 
+- **LinkedIn:** [linkedin.com/in/yashin-parsard-5449561a](https://www.linkedin.com/in/yashin-parsard-5449561a/)
 - **Email:** yashin.parsard@gmail.com
+
 *Open to software engineering roles across industries, including banking, insurance and manufacturing.*
