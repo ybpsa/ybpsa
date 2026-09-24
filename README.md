@@ -51,7 +51,7 @@ I am currently formalizing some of my experience by obtaining certifications.
 ## 🚀 Featured work
  
 Much of my professional work is built for clients and lives in private repositories. 
-I will sonn be adding a few public repositories.
+I am planning to add a few public repositories soon.
 
 ## 📫 Get in touch
  
