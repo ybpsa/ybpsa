@@ -1,42 +1,62 @@
-## Programming & Web
-C#, VB.NET, VBA, C, C++, WPF. JavaScript, TypeScript, Angular, Blazor, HTML5, CSS, Bootstrap. React (familiar, no shipped projects). Python, R (moderate). Entity Framework Core (Code First, Migrations, LINQ), Flask.
-
-## Databases & Data Engineering
-•	Databases: Microsoft SQL Server, Oracle, PostgreSQL, InfluxDB (moderate), Azure Cosmos DB, Azure Database for PostgreSQL.
-•	Database programming: T-SQL, PL/SQL, Pro-C, CLR, query optimisation and maintenance
-•	Data engineering: Snowflake certified in data engineering, pipelines, and data science
-•	Data formats and tools: JSON, XML, Postman
-
-## Cloud, DevOps & Architecture
-•	Cloud: Azure (App Services, Service Bus, AKS, Azure Cosmos DB)
-•	Containerisation: Docker, Kubernetes, Azure Container Apps
-•	CI/CD and version control: Azure DevOps, GitHub, Git
-•	Design principles: TDD, DDD, SOLID
-•	API development: ASP.NET Core, Minimal APIs, RESTful design, OpenAPI/Swagger, FastAPI
-•	Auth: JWT, OAuth2 (understanding)
-•	Legacy modernisation: WCF/SOAP, ASP.NET Web API, integrating legacy services with modern APIs
-•	Microservices and event driven messaging: Azure Service Bus, Azure Event Grid. (Kafka and Redis --currently upskilling)
-
-## Reporting and Business Intelligence
-SSRS, Power BI, Excel, SharePoint.
-
-## Mobile & Emerging
-Flutter/Dart (extensive), AI assisted development (Claude Code), basic ML/neural net exposure.
-
-## MES, Historians & LIMS
-•	MES: Custom built, Honeywell Uniformance, Aveva MES. 
-•	Historian: Aveva PI System, FTHistorian. 
-•	LIMS: Labware 7.
-
-## Manufacturing IT & Integration
-SAP MII, SAP PCo, SAP Business Objects, Microsoft Dynamics AX 2012 (production functionality).
-
-## Industrial
-•	SCADA: Fix32, RSView SE, Aveva InTouch. DCS: Honeywell TDC2000/3000, Emerson DeltaV. 
-•	PLCs: Allen Bradley, Mitsubishi, Modicon. 
-•	Rockwell Software: FTMetrics, FTHistorian, RSEnergyMetrix, FTTM, RSBatch, FTVantagepoint.
-•	Wonderware ArchestrA.
-•	MQTT
-
-## Older
-VB, Turbo Basic, Pascal, MS Access, dBASE, Visual FoxPro.
+# Hi, I'm Yashin Parsard 👋
+ 
+### Software engineer bridging industrial systems and modern cloud platforms
+ 
+I build software that connects the plant floor to the business. With [X]+ years across manufacturing IT and enterprise development, I integrate MES, historians, LIMS and SCADA with modern .NET, Azure and data platforms, turning raw process data into systems and insights that people can act on.
+ 
+---
+ 
+## 🔧 What I do
+ 
+- **Industrial integration:** connecting MES, historians, LIMS, SAP and control systems into reliable, maintainable solutions.
+- **Backend and APIs:** designing RESTful and event-driven services in C# / ASP.NET Core, hosted on Azure.
+- **Data engineering:** building pipelines and optimising databases across SQL Server, Oracle, PostgreSQL and Snowflake.
+- **Legacy modernisation:** wrapping and migrating WCF/SOAP and older systems into modern, containerised APIs.
+- **Mobile:** building cross-platform apps with Flutter and Dart.
+---
+ 
+## 🧰 Core stack
+ 
+| Area | Technologies |
+|---|---|
+| **Languages** | C#, TypeScript, JavaScript, Python, Dart, T-SQL, PL/SQL |
+| **Backend & APIs** | ASP.NET Core, Minimal APIs, Entity Framework Core, REST, OpenAPI/Swagger, FastAPI, Flask |
+| **Frontend & Mobile** | Angular, Blazor, WPF, HTML5, CSS, Bootstrap, Flutter |
+| **Databases** | SQL Server, Oracle, PostgreSQL, Azure Cosmos DB, InfluxDB |
+| **Data & BI** | Snowflake (certified: Data Engineering), Power BI, SSRS |
+| **Cloud & DevOps** | Azure (App Services, AKS, Container Apps, Service Bus, Event Grid), Docker, Kubernetes, Azure DevOps, GitHub |
+| **Practices** | TDD, DDD, SOLID, microservices, event-driven architecture |
+ 
+## 🏭 Industrial & manufacturing systems
+ 
+| Area | Technologies |
+|---|---|
+| **MES** | Aveva MES, Honeywell Uniformance, custom-built MES |
+| **Historians** | Aveva PI System, FactoryTalk Historian |
+| **LIMS** | LabWare 7 |
+| **Enterprise integration** | SAP MII, SAP PCo, SAP BusinessObjects, Dynamics AX 2012 (production) |
+| **SCADA / DCS** | Aveva InTouch, Wonderware ArchestrA, RSView SE, Honeywell TDC 2000/3000, Emerson DeltaV |
+| **PLCs & protocols** | Allen-Bradley, Mitsubishi, Modicon, MQTT |
+ 
+---
+ 
+## 📚 Currently learning
+ 
+Apache Kafka · Redis · AI-assisted development with Claude Code
+ 
+---
+ 
+## 🚀 Featured work
+ 
+Much of my industrial work is built for clients and lives in private repositories. Public projects:
+ 
+- **[Project name](link)** - one-line description of what it does and the stack used.
+- **[Project name](link)** - one-line description of what it does and the stack used.
+---
+ 
+## 📫 Get in touch
+ 
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** your.email@example.com
+*Open to roles in manufacturing IT, industrial integration and .NET / Azure engineering.*
+ 
