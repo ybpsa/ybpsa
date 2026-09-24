@@ -43,21 +43,18 @@ Deep experience with the systems that run industrial operations:
 ---
  
 ## 📚 Currently learning
- 
-Busy 
+
+I am currently formalizing some of my experience by obtaining certifications.
  
 ---
  
 ## 🚀 Featured work
  
-Much of my professional work is built for clients and lives in private repositories. Public projects:
- 
-- **[Project name](link)** - one-line description of what it does and the stack used.
-- **[Project name](link)** - one-line description of what it does and the stack used.
----
- 
+Much of my professional work is built for clients and lives in private repositories. 
+I will sonn be adding a few public repositories.
+
 ## 📫 Get in touch
  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/yashin-parsard-5449561a/ 
+- **Email:** yashin.parsard@gmail.com
 *Open to software engineering roles across industries, including banking, insurance and manufacturing.*
