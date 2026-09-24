@@ -1,15 +1,15 @@
 # Hi, I'm Yashin Parsard 👋
  
-### Software engineer bridging industrial systems and modern cloud platforms
+### Software engineer building reliable, data-driven systems across industries
  
-I build software that connects the plant floor to the business. With [X]+ years across manufacturing IT and enterprise development, I integrate MES, historians, LIMS and SCADA with modern .NET, Azure and data platforms, turning raw process data into systems and insights that people can act on.
+I design and build backend services, integrations and data platforms with .NET, Azure and modern databases. Much of my career has been in manufacturing, connecting plant-floor systems to the business. That work gave me skills that carry into any industry: modernising legacy systems, integrating platforms that were never designed to talk to each other, and building software where data accuracy, uptime and auditability matter.
  
 ---
  
 ## 🔧 What I do
  
-- **Industrial integration:** connecting MES, historians, LIMS, SAP and control systems into reliable, maintainable solutions.
 - **Backend and APIs:** designing RESTful and event-driven services in C# / ASP.NET Core, hosted on Azure.
+- **Systems integration:** connecting enterprise, legacy and operational systems into reliable, maintainable solutions.
 - **Data engineering:** building pipelines and optimising databases across SQL Server, Oracle, PostgreSQL and Snowflake.
 - **Legacy modernisation:** wrapping and migrating WCF/SOAP and older systems into modern, containerised APIs.
 - **Mobile:** building cross-platform apps with Flutter and Dart.
@@ -27,7 +27,9 @@ I build software that connects the plant floor to the business. With [X]+ years 
 | **Cloud & DevOps** | Azure (App Services, AKS, Container Apps, Service Bus, Event Grid), Docker, Kubernetes, Azure DevOps, GitHub |
 | **Practices** | TDD, DDD, SOLID, microservices, event-driven architecture |
  
-## 🏭 Industrial & manufacturing systems
+## 🏭 Industry specialisation: manufacturing
+ 
+Deep experience with the systems that run industrial operations:
  
 | Area | Technologies |
 |---|---|
@@ -42,13 +44,13 @@ I build software that connects the plant floor to the business. With [X]+ years 
  
 ## 📚 Currently learning
  
-Apache Kafka · Redis · AI-assisted development with Claude Code
+Busy 
  
 ---
  
 ## 🚀 Featured work
  
-Much of my industrial work is built for clients and lives in private repositories. Public projects:
+Much of my professional work is built for clients and lives in private repositories. Public projects:
  
 - **[Project name](link)** - one-line description of what it does and the stack used.
 - **[Project name](link)** - one-line description of what it does and the stack used.
@@ -58,5 +60,4 @@ Much of my industrial work is built for clients and lives in private repositorie
  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **Email:** your.email@example.com
-*Open to roles in manufacturing IT, industrial integration and .NET / Azure engineering.*
- 
+*Open to software engineering roles across industries, including banking, insurance and manufacturing.*
